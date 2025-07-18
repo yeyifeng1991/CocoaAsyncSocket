@@ -447,7 +447,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.robbiehanson.CocoaAsyncSocket;
 				PRODUCT_NAME = "$(PROJECT_NAME)";
-				SKIP_INSTALL = YES;
+				SKIP_INSTALL = NO;
 			};
 			name = Debug;
 		};
@@ -469,7 +469,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.robbiehanson.CocoaAsyncSocket;
 				PRODUCT_NAME = "$(PROJECT_NAME)";
-				SKIP_INSTALL = YES;
+				SKIP_INSTALL = NO;
 			};
 			name = Release;
 		};
